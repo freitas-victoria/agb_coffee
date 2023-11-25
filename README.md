@@ -7,5 +7,5 @@ This project stores the scripts and supplementary materials for coffee above-gro
 1. Contains the csv files generated from the compare of various possibilities between the AGB field and predicted AGB;
 2. Figures used in the article.
 
-# The data used to support the findings of this study are available from the corresponding upon reasonable request.
+# The data used to support the findings of this study are available upon reasonable request.
 
